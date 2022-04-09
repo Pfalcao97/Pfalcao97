@@ -10,11 +10,11 @@ Hello everyone,my name is Pedro and I'm a mechanical engineer, turned Python Dev
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-During my free time I enjoy cooking and playing music. I also enjoy studying and learning new things, so I'm always reading and doing some new online courses, during this time I'm doing Google's [Data Analyst professional course](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera. For those who speak portuguese, I also enjoy doing some written science communication work in my blog [À Jusante](https://ajusanteciencia.wordpress.com/), where I speak about engineering, sciente and mathematics.
+During my free time I enjoy cooking and playing music. I also enjoy studying and learning new things, so I'm always reading and doing some new online courses, during this time I'm doing Google's [Data Analyst professional course](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera. For those who speak portuguese, I also enjoy doing some written science communication work in my blog [À Jusante](https://ajusanteciencia.wordpress.com/), where I speak about engineering, science and mathematics.
 
 ![A Jusante](https://github.com/Pfalcao97/Pfalcao97/blob/main/ajusante.png)
 
-I'm open for collaboration, specially in the topics of **Data Analysis**, **Science and Engineering**, **Mathematical Optimization**, **Physical Simulations** and **Audio-visual projects**. Specially for **Open-Source** projects. Besides my work, I'm currently working in a tool for quickly creating video clips.
+I'm open for collaboration, specially in the topics of **Data Analysis**, **Science and Engineering**, **Mathematical Optimization**, **Physical Simulations** and **Audio-visual projects**. Specially those that are **Open-Source**. Besides my work, I'm currently working in a tool for quickly creating video clips.
 
 You can reach me via [my LinkedIn page](https://www.linkedin.com/in/pfalcao97/), if you want to talk about a collaboration project. I am fluent in Portuguese and English, and conversational in French and Spanish.
 
