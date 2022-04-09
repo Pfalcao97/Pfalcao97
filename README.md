@@ -1,3 +1,5 @@
+[![MasterHead](https://ajusanteciencia.files.wordpress.com/2022/02/cropped-ajusante-2.png)](https://ajusanteciencia.wordpress.com/)
+
 - 👋 Hi, I’m Pedro, a mechanical engineer based in Brasil.
 
 - 👀 I’m interested in creating physical simulations, to better visualise dynamical systems, animating videos and creating games through code and many other little projects!
