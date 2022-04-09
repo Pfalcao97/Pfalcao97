@@ -22,3 +22,4 @@ I'm open for collaboration, specially in the topics of **Data Analysis**, **Scie
 
 You can reach me via [my LinkedIn page](https://www.linkedin.com/in/pfalcao97/), if you want to talk about a collaboration project. I am fluent in Portuguese and English, and conversational in French and Spanish.
 
+*[Thanks for the Badges](https://github.com/Ileriayo/markdown-badges)*
