@@ -1,4 +1,4 @@
-Hello everyone,my name is Pedro and I'm a mechanical engineer, turned Data Scientist, based in Brasil. I currently work as a Full Data Scientist in large Brazilian retailer called Oscar Calçados. During my day-to-day I use SQL, many different APIs and popular python modules such as: Pandas, GeoPandas, PILLOW, Requests, JSON and more. I also explore the web looking for exciting inovations, specially cool new modules and machine learning aplications. I'm currently developing a dynamic pricing algorithm from scratch!
+Hello everyone,my name is Pedro and I'm a mechanical engineer, turned Data Scientist, based in Brasil. I currently work as a Full Data Scientist in large Brazilian retailer called Oscar Calçados. During my day-to-day I use SQL, many different APIs and popular python modules such as: Pandas, GeoPandas, PILLOW, Requests, JSON and more. I also explore the web looking for exciting inovations, specially cool new modules and machine learning aplications. 
 
 I'm currently learning Rust on my free time - So I'm open for any colaborations in Rust projects, or just talk about this cool new language!
 
