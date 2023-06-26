@@ -1,15 +1,44 @@
-Hi, I'm Pedro and I'm a mechanical engineer, working in data, based in Brasil. I currently work as a Junior Data Engineer in a large online education company, called [Descomplica](https://descomplica.com.br/). During my day-to-day I use SQL, many different APIs and popular python modules such as: Pandas, GeoPandas, PILLOW, Requests, JSON and more. I also explore the web looking for exciting inovations, specially cool new modules and machine learning aplications. 
+# Pedro Falcão
+```Data Engineer @ Descomplica 🇧🇷``` 
+          
 
-I'm currently learning Rust on my free time - So I'm open for any colaborations in Rust projects, or just to talk about this cool new language!
+## About me: <img align="right" alt="Nerd Alert" height="80px" style="padding-right:10px;" src="https://media2.giphy.com/media/l1KVb2dUcmuGG4tby/giphy.gif"/> 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+I've graduated in **Mechanical Engineering**, from the **University of São Paulo**, but, since before that <br> I've been working in data. I've began learning Python and machine learning concepts from my first year in university, in 2017, and since then, my interest in programming always grew. My ultimate passion is **sharing knowledge**, so for many years I've worked on building projects that could help me on that goal, including teaching and writing a science communication blog. Currently most of my free time goes into builiding a basis of knowledge that will allow me to **create an avenue for teaching concepts in STEM**, I've many plans for the future, and hope to share all that soon. 
 
-During my free time I enjoy cooking and playing music. I also enjoy studying and learning new things, so I'm always reading and doing some new online courses. For those who speak portuguese, I also enjoy writing science communication in my blog [À Jusante](https://ajusanteciencia.wordpress.com/), for subjects like engineering, science and mathematics.
+I'm passionate about open-source, and try to use and support FOSS always (I daily drive Fedora), thus am open to contributing with any such project. Besides that, I'd love to help out on more mathematical focused projects (Such as optimization problems and simulations) and data analysis. If you want to talk, just hit me up in my [LinkedIn](https://www.linkedin.com/in/pfalcao97/) <img width = "17px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />! 
+          
 
-I'm open for collaboration, specially in the topics of **Data Analysis**, **Science and Engineering**, **Mathematical Optimization**, **Physical Simulations** and **Audio-visual projects** - All in with the **Open-Source** community. 
+## Development: <img align="right" alt="Developcat"  height="90px" style="padding-right:10px;" src="https://media2.giphy.com/media/aNqEFrYVnsS52/giphy.gif"/> 
 
-You can reach me via [my LinkedIn page](https://www.linkedin.com/in/pfalcao97/), if you want to talk about a collaboration project. I am fluent in Portuguese and English, and conversational in French and Spanish.
+My day job is as a **Data Enginner**, at an brazilian education company, [Descomplica](https://descomplica.com.br/). I work daily with **Python**,<br> **SQL**, **GCP**, **Bash**, **Docker**, **Airflow** and **UNIX systems**. I'm also learning **Rust** on my free time, so that could <br> pop off now and again over here! <br>
 
-*[Thanks for the Badges](https://github.com/Ileriayo/markdown-badges)*
+<p align="center">
+
+<img align="left" alt="Python" width="90px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="PostgreSQL" width="90px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
+<img align="left" alt="Google Cloud" width="90px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+<img align="left" alt="Rust" width="90px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
+<img align="left" alt="Linux" width="90px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Bash" width="90px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img align="left" alt="Docker" width="90px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/> <br>
+
+</p>
+<br><br><br>
+
+As stated, I've worked professionally on developing in (but no included to) data, so under my belt I've _dozens_ of projects on **automation**, **optmization of processes**, **Extracting-Treating-Loading pipelines**, **Writing complex Data Analysis reports**, **creating Machine Learning projects**, **developing algorithms**, **creating bots** (For plataforms like Telegram and Slack) and **data visualization**. I also have worked on minor projects for myself, especially data analysis and automation. One project I've worked on my free time, of which i'm particularly proud, was on automating a pipeline consisting of extracting unstructured data from a PDF file (Including turning it into a text file and then developing multiple complex RegEx codes to get exaclty the data I's interested in - Working with PDFs is notoriously dificult), treating them, because they had multiple date formats and more than one currency, and finally loading them into an excel sheet. This process was made to automate a common work problem for my lovely lawyer girlfriend. <br><br>
+
+<p align="center">
+  <img align="center" alt="Work ethos" height="300px" style="padding-right:30px;" src="https://media.tenor.com/FCvzBQEEBpIAAAAd/sniper-tf2.gif" />
+</p>
+
+
+## Postamble:
+
+Okay, so that was all I had to say that was somewhat interesting. Now, to the part that you may skip without worrying: My likes and dislikes!
+
+Most of the time I'm doing that which I've described on the other sections, but I also regularly tinker with audio gear and with 3D printing. I've an Ender 3 3D printer, that I use to solve small conviniences in the lifes of the people around me and a plethora of audio gear, my favorite IEM is the Ikko OH10 (or Obsidian). I enjoy working out and running/walking around the city. I also love playing video-games, though that isn't something I do much anymore, between my favorite games, I can cite Disco Elysium, Half-Life and Deus Ex. My favorite show is Seinfeld, with whom, according to that lovely girlfriend I've talked about, I share many mannerisms. I try reading everyday before going to bed and my favorite genre is science communication.
+
+<p align="center">
+  <img align="middle" alt="Seinfeld" height="300px" style="padding-right:30px;" src="https://media3.giphy.com/media/2aAcLrYtiX8YM/giphy.gif" />
+</p>
