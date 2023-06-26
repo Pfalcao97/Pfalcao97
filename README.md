@@ -11,7 +11,7 @@ I'm passionate about open-source, and try to use and support FOSS always (I dail
 
 ## Development: <img align="right" alt="Developcat"  height="90px" style="padding-right:10px;" src="https://media2.giphy.com/media/aNqEFrYVnsS52/giphy.gif"/> 
 
-My day job is as a **Data Enginner**, at an brazilian education company, [Descomplica](https://descomplica.com.br/). I work daily with **Python**, **SQL**, **GCP**, **Bash**, **Docker**, **Airflow** and **UNIX systems**. I'm also learning **Rust** on my free time, so that could <br> pop off now and again over here! <br>
+My day job is as a **Data Enginner**, at an brazilian education company, [Descomplica](https://descomplica.com.br/). I work daily with **Python**, **SQL**,<br> **GCP**, **Bash**, **Docker**, **Airflow** and **UNIX systems**. I'm also learning **Rust** on my free time, so that could <br> pop off now and again over here! <br>
 
 <p align="center">
 
