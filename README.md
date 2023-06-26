@@ -4,14 +4,14 @@
 
 ## About me: <img align="right" alt="Nerd Alert" height="80px" style="padding-right:10px;" src="https://media2.giphy.com/media/l1KVb2dUcmuGG4tby/giphy.gif"/> 
 
-I've graduated in **Mechanical Engineering**, from the **University of São Paulo**, but, since before that <br> I've been working in data. I've began learning Python and machine learning concepts from my first year in university, in 2017, and since then, my interest in programming always grew. My ultimate passion is **sharing knowledge**, so for many years I've worked on building projects that could help me on that goal, including teaching and writing a science communication blog. Currently most of my free time goes into builiding a basis of knowledge that will allow me to **create an avenue for teaching concepts in STEM**, I've many plans for the future, and hope to share all that soon. 
+I've graduated in **Mechanical Engineering**, from the **University of São Paulo**, but, since before <br>that I've been working in data. I've began learning Python and machine learning concepts from my first year in university, in 2017, and since then, my interest in programming always grew. My ultimate passion is **sharing knowledge**, so for many years I've worked on building projects that could help me on that goal, including teaching and writing a science communication blog. Currently most of my free time goes into builiding a basis of knowledge that will allow me to **create an avenue for teaching concepts in STEM**, I've many plans for the future, and hope to share all that soon. 
 
 I'm passionate about open-source, and try to use and support FOSS always (I daily drive Fedora), thus am open to contributing with any such project. Besides that, I'd love to help out on more mathematical focused projects (Such as optimization problems and simulations) and data analysis. If you want to talk, just hit me up in my [LinkedIn](https://www.linkedin.com/in/pfalcao97/) <img width = "17px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />! 
           
 
 ## Development: <img align="right" alt="Developcat"  height="90px" style="padding-right:10px;" src="https://media2.giphy.com/media/aNqEFrYVnsS52/giphy.gif"/> 
 
-My day job is as a **Data Enginner**, at an brazilian education company, [Descomplica](https://descomplica.com.br/). I work daily with **Python**,<br> **SQL**, **GCP**, **Bash**, **Docker**, **Airflow** and **UNIX systems**. I'm also learning **Rust** on my free time, so that could <br> pop off now and again over here! <br>
+My day job is as a **Data Enginner**, at an brazilian education company, [Descomplica](https://descomplica.com.br/). I work daily with **Python**, **SQL**, **GCP**, **Bash**, **Docker**, **Airflow** and **UNIX systems**. I'm also learning **Rust** on my free time, so that could <br> pop off now and again over here! <br>
 
 <p align="center">
 
