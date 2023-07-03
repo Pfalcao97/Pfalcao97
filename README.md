@@ -11,7 +11,7 @@ I'm passionate about open-source, and try to use and support FOSS always (I dail
 
 ## Development: <img align="right" alt="Developcat"  height="90px" style="padding-right:10px;" src="https://media2.giphy.com/media/aNqEFrYVnsS52/giphy.gif"/> 
 
-My day job is as a **Data Enginner**, at an brazilian education company, [Descomplica](https://descomplica.com.br/). I work daily with **Python**, **SQL**, **GCP**, **Bash**, **Docker**, **Airflow** and **UNIX systems**. I'm also learning **Rust** on my free time, so that could pop off now and again over here! <br>
+My day job is as a **Data Engineer**, at an brazilian education company, [Descomplica](https://descomplica.com.br/). I work daily with **Python**, **SQL**, **GCP**, **Bash**, **Docker**, **Airflow** and **UNIX systems**. I'm also learning **Rust** on my free time, so that could pop off now and again over here! <br>
 
 <p align="center">
 
@@ -37,7 +37,7 @@ As stated, I've worked professionally on developing in (but no included to) data
 
 Okay, so that was all I had to say that was somewhat interesting. Now, to the part that you may skip without worrying: My likes and dislikes!
 
-Most of the time I'm doing that which I've described on the other sections, but I also regularly tinker with audio gear and with 3D printing. I've an Ender 3 3D printer, that I use to solve small conviniences in the lifes of the people around me and a plethora of audio gear, my favorite IEM is the Ikko OH10 (or Obsidian). I enjoy working out and running/walking around the city. I also love playing video-games, though that isn't something I do much anymore, between my favorite games, I can cite Disco Elysium, Half-Life and Deus Ex. My favorite show is Seinfeld, with whom, according to that lovely girlfriend I've talked about, I share many mannerisms. I try reading everyday before going to bed and my favorite genre is science communication.
+Most of the time I'm doing that which I've described on the other sections, but I also regularly tinker with audio gear and with 3D printing. I've an Ender 3 3D printer, that I use to solve small inconviniences in the lifes of the people around me and a plethora of audio gear, my favorite IEM is the Ikko OH10 (or Obsidian). I enjoy working out and running/walking around the city. I also love playing video-games, though that isn't something I do much anymore, between my favorite games, I can cite Disco Elysium, Half-Life and Deus Ex. My favorite show is Seinfeld, with whom, according to that lovely girlfriend I've talked about, I share many mannerisms. I try reading everyday before going to bed and my favorite genre is science communication.
 
 <p align="center">
   <img align="middle" alt="Seinfeld" height="300px" style="padding-right:30px;" src="https://media3.giphy.com/media/2aAcLrYtiX8YM/giphy.gif" />
